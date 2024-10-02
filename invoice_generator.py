@@ -64,3 +64,4 @@ pdf.build([title, table])
 
 print("Your invoice is ready")
 
+print("")
