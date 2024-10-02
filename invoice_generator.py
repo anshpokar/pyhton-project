@@ -63,5 +63,3 @@ table = Table(DATA, style=style)
 pdf.build([title, table])
 
 print("Your invoice is ready")
-
-print("")
